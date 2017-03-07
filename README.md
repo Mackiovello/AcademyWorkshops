@@ -1,15 +1,17 @@
 # AcademyWorkshops
 
-<<<<<<< HEAD
 ##Save me
-=======
+
 
 
 #woop
 
-# I was here //Redgert
 
->>>>>>> 11cd1e0da7b9aa6e726c720dcf30e5637b7ef9b4
+# I was here //Redgert
+# I was also here// Jamamalu
+# TEST
+# I was here // 
+tjena, hur är läget??
 
 while(true)
 {
